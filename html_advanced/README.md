@@ -39,4 +39,4 @@ reference resources:
   
 The project Final Image sample:
 
- ![The project Image sample]()
+ ![The project Image sample](https://github.com/lihirwe/alu-web-development/blob/main/html_advanced/img/snip.jpg?raw=true)
